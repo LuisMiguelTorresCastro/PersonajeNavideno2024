@@ -29,7 +29,7 @@ Imagen hecha a mano o con software
 https://wokwi.com/projects/410613735485295617
 
 ## Videos
-[Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.](https://drive.google.com/file/d/1S9AkYapnvansvuJv4Mj0YBxJ5VM7LrJh/view?usp=drivesdk)
+[(https://drive.google.com/file/d/1S9AkYapnvansvuJv4Mj0YBxJ5VM7LrJh/view?usp=drivesdk)]
 
 ## Capturas de Evaluaciones de Curso de C y python
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
