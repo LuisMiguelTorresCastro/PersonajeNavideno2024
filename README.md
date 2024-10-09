@@ -33,8 +33,10 @@ Este Muñeco de Nieve Interactivo controlado por una ESP32 combinará luces, son
 [Imagen hecha a mano o con software](https://github.com/LuisMiguelTorresCastro/PersonajeNavideno2024/blob/main/Mu%C3%B1eco%20navide%C3%B1o.png)
 
 ## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/410613735485295617
-
+[casa]
+(https://wokwi.com/projects/410613735485295617)
+[muñeco]
+(https://wokwi.com/projects/411234070836797441)
 ## Videos
 [(https://drive.google.com/file/d/1S9AkYapnvansvuJv4Mj0YBxJ5VM7LrJh/view?usp=drivesdk)]
 
