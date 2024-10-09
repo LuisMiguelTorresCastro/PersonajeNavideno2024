@@ -39,4 +39,4 @@ https://wokwi.com/projects/410613735485295617
 [(https://drive.google.com/file/d/1S9AkYapnvansvuJv4Mj0YBxJ5VM7LrJh/view?usp=drivesdk)]
 
 ## Capturas de Evaluaciones de Curso de C y python
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+https://github.com/LuisMiguelTorresCastro/PersonajeNavideno2024/tree/main/c
